@@ -7,29 +7,29 @@ const images = [
     {
         src: "Beograd2-min.png",
         title: "Za tvoj rođendan",
-        description: "Nikada neću da zaboravim kada sam te opet sreo, bilo je nerealno",
+        description: "Nikada neću da zaboravim kada sam te opet sreo, kada sam vidio malog čupavca koji nestrpljivo čeka znao sam da si to ti.",
     },
 
     {
         src: "Beograd1-min.png",
         title: "Naše zadnje veče u hotelu",
-        description: "Tad sam po prvi put shvatio istinski i rekao ti da te volim.",
+        description: "Tad sam po prvi put shvatio istinski i rekao ti da te volim...",
     },
 
     {
         src: "Banjaluka2-min.png",
         title: "Kada si mi opet došla",
-        description: "I svaki put kad treba da te opet sretnem srce mi pojuri sto na sat, onoliko koliko sam ja jurio autom samo da de vidim.",
+        description: "I svaki put kad treba da te opet sretnem srce mi pojuri sto na sat, baš kako sam jurio autom samo da te vidim.",
     },
     {
         src: "Banjaluka-min.png",
         title: "Na spomeniku",
-        description: "Uvijek sam imao želje ali na spomeniku je nastala moja najveća. Da te imam za cijeli život."
+        description: "Uvijek sam imao želje ali na spomeniku je nastala moja najveća: Da te imam za cijeli život."
     },
     {
         src: "Beograd-min.png",
         title: "Na Avali",
-        description: "Veče kada sam shvatio da bez tebe nemam svoj mir, svoju sreću ni svoj spokoj"
+        description: "Veče kada sam shvatio da bez tebe nemam svoj mir, svoju sreću ni svoj spokoj."
     },
     {
         src: "Beograd3-min.png",
